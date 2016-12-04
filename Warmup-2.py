@@ -106,7 +106,3 @@ def string_match(a, b):
       count = count + 1
 
   return count
-
-
-
-
